@@ -7,4 +7,4 @@ Below are images of this project and a link to where it has been published for f
 
 ![image alt](https://github.com/thomasboaheng1/Student-Academic-Performance-Dashboard/blob/main/Assets/Screenshot%202025-11-07%20093826.png)
 
-https://app.powerbi.com/groups/me/reports/f0e38398-3908-4d9f-bff7-19ec745ac4bf?pbi_source=desktop
+https://app.powerbi.com/links/_Tn1n1_Btv?ctid=1fbfc6cf-b6ae-4490-a0d8-031e3a5b8597&pbi_source=linkShare
